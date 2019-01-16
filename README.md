@@ -1,7 +1,7 @@
 # Humanity
 model Students and Workers
 
-1.Every Student should have firstName, lastName, and afaculty number</br>
+&nbsp1.Every Student should have firstName, lastName, and afaculty number</br>
 2.Every Worker should have firstName, lastName, week salary andwork hours per day</br>
 3.Design and implement a database that holds these data</br>
 4.Our software should be able to calculate the money he earnsby hour.</br>
