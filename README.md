@@ -1,4 +1,4 @@
-# -Humanity
+# Humanity
 model Students and Workers
 
 1.Every Student should have firstName, lastName, and afaculty number
